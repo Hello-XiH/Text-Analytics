@@ -5,6 +5,7 @@ This project employs Natural Language Processing (NLP) techniques to analyze fin
 
 ### Data Source
 The dataset consists of financial news articles provided by the Dow Jones Newswires. Each entry in the dataset under the column "Article" represents the cleaned text of a news article.
+
 [Download Dataset (DJN_2017-01.pkl)](https://www.dropbox.com/s/uaqtmfq2h61mvpy/DJN_2017-01.pkl?dl=0)
 
 
