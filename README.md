@@ -1,4 +1,4 @@
-# Asset Management NLP Project
+## Asset Management NLP Project: Text Analytics
 
 ## Overview
 This project employs Natural Language Processing (NLP) techniques to analyze financial news articles from the Dow Jones Newswires Machine Text Feed and Archive. The main objective is to extract significant topics using the Latent Dirichlet Allocation (LDA) approach, which could potentially provide insights into asset management strategies.
