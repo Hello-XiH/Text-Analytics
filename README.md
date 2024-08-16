@@ -13,4 +13,4 @@ The dataset consists of financial news articles provided by the Dow Jones Newswi
 We apply the Latent Dirichlet Allocation (LDA) model to all the articles in the dataset to identify 20 distinct topics. The model's configuration follows the methodology outlined in the paper by Bybee, Kelly, Manela, and Xiu (2022), titled "Business News and Business Cycles." Each topic is characterized by the top 10 keywords, which are selected based on their relevance to the topic as calculated in the referenced study.
 
 ### Objective
-The goal of this project is to provide a clear view of the prevailing themes in business news that could influence asset management decisions. By understanding these topics, asset managers can better align their strategies with current market sentiments and trends.
+The goal of this project is to provide a clear view of the prevailing themes in business news that could influence asset management decisions. By understanding these topics, analysts can better align their strategies with current market sentiments and trends.
